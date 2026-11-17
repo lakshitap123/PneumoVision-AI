@@ -1,0 +1,8 @@
+{
+    "classification_threshold": 0.9702209830284119,
+    "threshold_selection_method": "Youden's J",
+    "selected_using": "Validation set only",
+    "class_0": "NORMAL",
+    "class_1": "PNEUMONIA",
+    "model_file": "pneumovision_cnn_best.keras"
+}
